@@ -1,5 +1,5 @@
 ## Hi there 👋
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectretek&show_icons=true&theme=panda)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectretek&show_icons=true&theme=panda)-->
 <!--
 **spectretek/spectretek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
